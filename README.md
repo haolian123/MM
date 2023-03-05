@@ -2,7 +2,7 @@
 数模笔记资料
 
 ## 课程视频链接
-###数学建模+小石老师（资料自取）
+### 数学建模+小石老师（资料自取）
 https://www.bilibili.com/video/BV12W411X7aE/?p=1&share_medium=iphone&share_plat=ios&share_session_id=740229E6-665F-472D-A354-D04A377B49C9&share_source=WEIXIN&share_tag=s_i&timestamp=1643200465&unique_k=5Ans01R
 
 ### 数学建模老哥
@@ -14,7 +14,7 @@ https://www.bilibili.com/video/BV12W4y1C7Tr/?buvid=18d82bb681b7c3ce2f6c45a60e50b
 
 
 ## 学习资料链接
-###国赛赛题和优秀论文
+### 国赛赛题和优秀论文
 链接: https://pan.baidu.com/s/1M6sIzQvIJf8CwFElvhGjZw?pwd=wvmo 提取码: wvmo
 
 ### 国赛赛题网站
