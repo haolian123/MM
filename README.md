@@ -24,7 +24,7 @@ https://www.bilibili.com/video/BV12W4y1C7Tr/?buvid=18d82bb681b7c3ce2f6c45a60e50b
 https://pan.baidu.com/s/1Vzeqx7ssKIfcxW8lGU9GyQ#list/path=%2F 提取码 r235
 
 ### 根据算法分类的优秀论文
-https://pan.baidu.com/share/init?surl=6oQ_G_N49iGwXHGHRmZiHg
+https://pan.baidu.com/share/init?surl=6oQ_G_N49iGwXHGHRmZiHg  提取码:w777
 
 ### Python建模博主
 https://haihong.blog.csdn.net/article/details/119890857
