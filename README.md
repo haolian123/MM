@@ -28,3 +28,5 @@ https://pan.baidu.com/share/init?surl=6oQ_G_N49iGwXHGHRmZiHg  提取码:w777
 
 ### Python建模博主
 https://haihong.blog.csdn.net/article/details/119890857
+
+https://blog.csdn.net/weixin_45508265/category_10757015.html?spm=1001.2014.3001.5482
